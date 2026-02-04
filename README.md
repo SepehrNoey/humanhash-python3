@@ -1,4 +1,4 @@
-# humanhash
+# humanhash - Adapted for Python 3
 
 humanhash provides human-readable representations of digests.
 
